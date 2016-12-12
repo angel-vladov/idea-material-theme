@@ -28,10 +28,10 @@ Changes applied on top of the default material UI color scheme:
 * Line height changed from 1.6 to 1.2 (_Better looking with smaller font size_)
 * *Breadcrumbs* colors were not matching the dark them so I used the colors from IDEA Darcula theme for them.
 
-![Theme Preview](images/theme-preview.png)
+![Theme Preview](images/theme-preview.png)  
 _Theme Preview (Default)_
 
-![Theme Preview - Dark](images/theme-preview-dark.png)
+![Theme Preview - Dark](images/theme-preview-dark.png)  
 _Theme Preview (Dark)_
 
 ## More
