@@ -24,3 +24,8 @@ Changes applied on top of the default material UI color scheme:
 * *Breadcrumbs* colors were not matching the dark them so I used the colors from IDEA Darcula theme for them.
 
 ![Theme Preview](images/theme-preview.png)
+
+## More
+
+* Great [Laracasts](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch/episodes/3) tutorial on customizing PHP Storm
+* Laracasts on how to [Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm).
