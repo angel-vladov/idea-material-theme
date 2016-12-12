@@ -15,7 +15,7 @@ Custom colors based on [Material Theme](http://equinsuocha.io/material-theme/#/d
 
 * Open settings, goto `Editor -> Color And Fonts` and select `Material Theme - Default (Custom)`.
 
-### Using Darker theme-preview
+### Using Darker Theme
 
 * Follow instructions from here: https://github.com/ChrisRM/material-theme-jetbrains
 * Select `Material Theme - Darker (Custom)` from `Color and Fonts`.
