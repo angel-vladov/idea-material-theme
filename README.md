@@ -17,7 +17,11 @@ Custom colors based on [Material Theme](http://equinsuocha.io/material-theme/#/d
 
 ### Using Darker Theme
 
-* Follow instructions from here: https://github.com/ChrisRM/material-theme-jetbrains
+* Show IDE toolbar from `View->Toolbar`. Hide it after you are done and not using it.
+    ![Toolbar](https://camo.githubusercontent.com/6881abd21d426cf76e3c0f905f368d6a5c4076e5/68747470733a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f383030362f73637265656e73686f745f31353732322e706e67)
+
+    _Instructions here:_ https://github.com/ChrisRM/material-theme-jetbrains#screenshots
+    
 * Select `Material Theme - Darker (Custom)` from `Color and Fonts`.
 
 ## Changes from the default
